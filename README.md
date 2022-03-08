@@ -28,3 +28,10 @@ I'm a French and English teacher from **Brazil** who's decided to take the first
    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </p>
+
+---
+
+<div align="center">
+  <a href="https://github.com/gabrielhamdan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhamdan&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
